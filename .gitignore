@@ -1,0 +1,8 @@
+# Flutter & Dart
+.dart_tool/
+build/
+.idea/
+*.iml
+.packages
+pubspec.lock
+ios/Pods/
